@@ -115,7 +115,7 @@ export default function Home() {
           transition={{ duration: 0.6 }}
         >
           <h2 className="text-2xl font-semibold mb-3 text-blue-600">Contacto</h2>
-          <p><strong>📧 Email:</strong> david.moreno@est.utpl.edu.ec</p>
+          <p><strong>📧 Email:</strong> cdmoreno3@utpl.edu.ec</p>
           <p><strong>📱 WhatsApp:</strong> +593 96 773 1391</p>
           <p>
             <strong>🌐 Web Empresa:</strong>{" "}
